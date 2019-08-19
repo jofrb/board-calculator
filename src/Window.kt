@@ -1,0 +1,1 @@
+class Window(override val height: Int, override val width: Int, override val toFloor: Int) : WallVoid()
